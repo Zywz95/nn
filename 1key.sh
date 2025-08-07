@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 定义下载URL和解压目录
-DOWNLOAD_URL="https://ghfast.top/https://raw.githubusercontent.com/Zywz95/nn/5f9f6a755a6fc035dda6093e8fd4fa7a0254256c/0.zip"  # 替换为实际下载链接
+DOWNLOAD_URL="https://coverip.gh-proxy.com/https://github.com/Zywz95/nn/blob/67b84ab4b909f693e3446ac2885d653eb4c6d4d1/0.zip"  # 替换为实际下载链接
 TARGET_DIR="/root/nock"
 CONFIG_FILE="config.yaml"
 SERVICE_NAME="nock.service"
